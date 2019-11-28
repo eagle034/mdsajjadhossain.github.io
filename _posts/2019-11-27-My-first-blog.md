@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My_first_blog"
+title: "My-first-blog"
 date: 2019-11-27
 ---
 
